@@ -55,6 +55,7 @@ Partial Class frmjenis
         '
         Me.TextBox1.Location = New System.Drawing.Point(106, 24)
         Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.ReadOnly = True
         Me.TextBox1.Size = New System.Drawing.Size(201, 20)
         Me.TextBox1.TabIndex = 2
         '
@@ -97,14 +98,14 @@ Partial Class frmjenis
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.DataGridView1.Location = New System.Drawing.Point(32, 131)
         Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(240, 150)
+        Me.DataGridView1.Size = New System.Drawing.Size(275, 168)
         Me.DataGridView1.TabIndex = 7
         '
         'frmjenis
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(610, 293)
+        Me.ClientSize = New System.Drawing.Size(346, 325)
         Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)

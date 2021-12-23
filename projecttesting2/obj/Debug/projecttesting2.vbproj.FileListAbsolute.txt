@@ -1,0 +1,50 @@
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\projecttesting2.exe.config
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\projecttesting2.exe
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\projecttesting2.pdb
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\projecttesting2.xml
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\MySql.Data.dll
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\Google.Protobuf.dll
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\Zstandard.Net.dll
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\BouncyCastle.Crypto.dll
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\Ubiety.Dns.Core.dll
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\System.Buffers.dll
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\K4os.Compression.LZ4.dll
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\K4os.Hash.xxHash.dll
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\MySql.Data.xml
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.vbprojResolveAssemblyReference.cache
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.Form1.resources
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.Resources.resources
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.vbproj.GenerateResource.Cache
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.exe
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.xml
+d:\desktop\documents\visual studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.pdb
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\projecttesting2.exe.config
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.exe
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.xml
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.pdb
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\projecttesting2.exe
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\projecttesting2.pdb
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\projecttesting2.xml
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\Google.Protobuf.dll
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\Zstandard.Net.dll
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\BouncyCastle.Crypto.dll
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\Ubiety.Dns.Core.dll
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\System.Buffers.dll
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\K4os.Compression.LZ4.dll
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\K4os.Hash.xxHash.dll
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\MySql.Data.xml
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.vbprojResolveAssemblyReference.cache
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.Form1.resources
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.Resources.resources
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.vbproj.GenerateResource.Cache
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.MDIParent1.resources
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\obj\Debug\projecttesting2.frmjenis.resources
+E:\Desktop\Documents\Visual Studio 2015\Projects\projecttesting2\projecttesting2\bin\Debug\MySql.Data.dll
+C:\Users\Nurfaidzy\Documents\Semester 7\Vb\projecttesting2\projecttesting2\bin\Debug\projecttesting2.exe.config
+C:\Users\Nurfaidzy\Documents\Semester 7\Vb\projecttesting2\projecttesting2\obj\Debug\projecttesting2.exe
+C:\Users\Nurfaidzy\Documents\Semester 7\Vb\projecttesting2\projecttesting2\obj\Debug\projecttesting2.xml
+C:\Users\Nurfaidzy\Documents\Semester 7\Vb\projecttesting2\projecttesting2\obj\Debug\projecttesting2.pdb

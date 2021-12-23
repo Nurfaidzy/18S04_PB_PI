@@ -2,7 +2,7 @@
 
 Module aktiviti
     Public CN As MySqlConnection
-    Public ds As DataSet
+
 
     Public cSQL As String
     Public cmd As MySqlCommand
@@ -26,5 +26,6 @@ Module aktiviti
                    "Gagal Terhubung Ke Server")
             Application.DoEvents()
         End Try
+
     End Sub
 End Module

@@ -22,7 +22,7 @@ Public Class Form1
             If dr.Read Then
                 MDIParent1.Show()
                 MsgBox("Selamat Datang Di aplikasi Inventori ", MsgBoxStyle.Information, "Welcome")
-
+                Me.Hide()
 
             Else
                 dicoba = dicoba + 1

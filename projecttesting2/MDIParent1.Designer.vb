@@ -37,6 +37,7 @@ Partial Class MDIParent1
         Me.PenjualananToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PembelianToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.LaporanToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.PenjualanToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -59,13 +60,13 @@ Partial Class MDIParent1
         'LogInToolStripMenuItem
         '
         Me.LogInToolStripMenuItem.Name = "LogInToolStripMenuItem"
-        Me.LogInToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.LogInToolStripMenuItem.Size = New System.Drawing.Size(114, 22)
         Me.LogInToolStripMenuItem.Text = "Log In"
         '
         'LogOffToolStripMenuItem
         '
         Me.LogOffToolStripMenuItem.Name = "LogOffToolStripMenuItem"
-        Me.LogOffToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.LogOffToolStripMenuItem.Size = New System.Drawing.Size(114, 22)
         Me.LogOffToolStripMenuItem.Text = "Log Off"
         '
         'DataMasterToolStripMenuItem
@@ -97,26 +98,33 @@ Partial Class MDIParent1
         '
         Me.TransaksiToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PenjualananToolStripMenuItem, Me.PembelianToolStripMenuItem})
         Me.TransaksiToolStripMenuItem.Name = "TransaksiToolStripMenuItem"
-        Me.TransaksiToolStripMenuItem.Size = New System.Drawing.Size(66, 20)
-        Me.TransaksiToolStripMenuItem.Text = "Transaksi"
+        Me.TransaksiToolStripMenuItem.Size = New System.Drawing.Size(102, 20)
+        Me.TransaksiToolStripMenuItem.Text = "Data Pelanggan"
         '
         'PenjualananToolStripMenuItem
         '
         Me.PenjualananToolStripMenuItem.Name = "PenjualananToolStripMenuItem"
         Me.PenjualananToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
-        Me.PenjualananToolStripMenuItem.Text = "Penjualanan"
+        Me.PenjualananToolStripMenuItem.Text = "Supplier"
         '
         'PembelianToolStripMenuItem
         '
         Me.PembelianToolStripMenuItem.Name = "PembelianToolStripMenuItem"
         Me.PembelianToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
-        Me.PembelianToolStripMenuItem.Text = "Pembelian"
+        Me.PembelianToolStripMenuItem.Text = "Costumer"
         '
         'LaporanToolStripMenuItem
         '
+        Me.LaporanToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PenjualanToolStripMenuItem})
         Me.LaporanToolStripMenuItem.Name = "LaporanToolStripMenuItem"
-        Me.LaporanToolStripMenuItem.Size = New System.Drawing.Size(62, 20)
-        Me.LaporanToolStripMenuItem.Text = "Laporan"
+        Me.LaporanToolStripMenuItem.Size = New System.Drawing.Size(66, 20)
+        Me.LaporanToolStripMenuItem.Text = "Transaksi"
+        '
+        'PenjualanToolStripMenuItem
+        '
+        Me.PenjualanToolStripMenuItem.Name = "PenjualanToolStripMenuItem"
+        Me.PenjualanToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.PenjualanToolStripMenuItem.Text = "Penjualan"
         '
         'MDIParent1
         '
@@ -147,4 +155,5 @@ Partial Class MDIParent1
     Friend WithEvents PenjualananToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents PembelianToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents LaporanToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents PenjualanToolStripMenuItem As ToolStripMenuItem
 End Class
